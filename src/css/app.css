@@ -1,0 +1,11 @@
+.exe_no{
+    color: red;
+}
+.text{
+    color: violet;
+}
+.num{
+    color: gold;
+    font-style: italic;
+    font-size: larger;
+}
